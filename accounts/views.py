@@ -73,3 +73,4 @@ class LogoutView(RedirectView):
         if self.request.user.is_authenticated:
             logout(self.request)
         return super().get_redirect_url(*args, **kwargs)
+
