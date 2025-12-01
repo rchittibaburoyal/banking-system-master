@@ -16,7 +16,7 @@ django-import-export==4.3.14
 django-ipware==7.0.1
 django-jazzmin==3.0.1
 django-structlog==10.0.0
-django-timezone-field==4.2.3
+django-timezone-field==7.1
 djangorestframework==3.16.1
 gunicorn==23.0.0
 kombu==5.6.1
